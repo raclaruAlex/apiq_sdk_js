@@ -1,0 +1,8 @@
+{
+  "name": "apiq_sdk_js",
+  "private": false,
+  "description": "SDK JS for APIQ CMS",
+  "version": "0.1.0",
+  "author": "APIQ", 
+  "license": "MIT" 
+}
